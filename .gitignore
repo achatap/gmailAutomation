@@ -1,0 +1,8 @@
+/target/classes/credentials.json
+/target/classes/StoredCredential
+/.idea/misc.xml
+/gmailAutomation.iml
+/.idea/compiler.xml
+/.idea/jarRepositories.xml
+/src/main/resources/StoredCredential
+/src/main/resources/credentials.json
